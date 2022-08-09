@@ -65,7 +65,7 @@ main{
 
 #mission{
     position: relative;
-    background-image: url("mission-background.jpg");
+    background-image: url(mission-background.jpg);
     height: 700px;
     width: 1200px;
     background-position: center;

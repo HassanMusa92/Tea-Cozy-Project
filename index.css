@@ -65,7 +65,7 @@ main{
 
 #mission{
     position: relative;
-    background-image: url(../images/mission-background.jpg);
+    background-image: url("../images/mission-background.jpg");
     height: 700px;
     width: 1200px;
     background-position: center;
@@ -137,7 +137,7 @@ main{
 #location{
     position: relative;
     padding-top: 60px;
-    background-image: url(../images/locations-background.jpg);
+    background-image: url("../images/locations-background.jpg");
     background-position: center;
     background-repeat: no-repeat;     
     width: 1200px;
